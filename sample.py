@@ -4,6 +4,7 @@ while True:
     print('2:Comprueba los resultados hasta ahora.')
     print('3:Terminar.')
     num = input()
+    
 
     if num.isdecimal():
         num = int(num)
